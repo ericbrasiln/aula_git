@@ -2,7 +2,7 @@
 
 Eric Brasil (IHLM/UNILAB)
 
-<img src="img/octolab.png" alt="octolabhd" height="256">
+<img src="img/octolab.png" alt="octolabhd" height="500">
 
 ## O que é git e github?
 
