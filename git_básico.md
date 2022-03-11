@@ -10,7 +10,7 @@ Tem diferença? É a mesma coisa? Por que usar?
 
 ### Git
 
--*Version Control System*
+- *Version Control System*
 	- Distribuído
 	- Repositório Local
 	- Livre e gratuito
