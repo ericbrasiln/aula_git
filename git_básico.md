@@ -4,7 +4,7 @@ Eric Brasil (IHLM/UNILAB)
 
 ## O que é git e github?
 
-![octolabhd](img/octolabhd.png)
+![octolabhd](img/octolab.png)
 
 ### Git
 
