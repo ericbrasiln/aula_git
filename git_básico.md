@@ -2,9 +2,11 @@
 
 Eric Brasil (IHLM/UNILAB)
 
+<img src="img/octolab.png" alt="octolabhd" height="256">
+
 ## O que é git e github?
 
-![octolabhd](img/octolab.png)
+Tem diferença? É a mesma coisa? Por que usar?
 
 ### Git
 
@@ -64,8 +66,10 @@ condição de "modificado" (`modified`).
 	- `git commit`: grava as alterações no histórico
 	- `git commit -m "mensagem do commit"`
 	- `git commit -a -m "mensagem do commit"`
+
 Lembrando que um commit armazena um snapshot de tudo que você incluiu sua
-'staging area'
+'staging area'.
+
 É possível consultar o status dos arquivos no diretório:
 
 - `git status` 
@@ -121,6 +125,10 @@ Push
 
 Ex:`git push origin main`
 
+Pull
+
+- `git pull`
+
 ### Branches
 
 Criar um novo branch
@@ -140,7 +148,4 @@ Merge
 Deletar branch
 
 - `git branch -d [branch name]`
-
-
-
 
